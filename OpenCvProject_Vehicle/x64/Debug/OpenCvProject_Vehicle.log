@@ -1,0 +1,46 @@
+﻿  OpenCvProject_Vehicle.cpp
+C:\Users\p2022\Desktop\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\p2022\Desktop\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\p2022\Desktop\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\ObjectFind.h(89,25): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\ObjectFind.h(166,68): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\ObjectFind.h(173,137): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(12,43): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(28,42): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(30,41): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(61,43): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(87,42): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(89,41): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(135,42): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(137,41): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(191,42): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCv\VideoPlay.h(193,41): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\MyFile\CreateMenu.h(69,23): warning C4312: '형식 캐스트': 'int'에서 더 큰 'HMENU'(으)로의 변환입니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\MyFile\CreateMenu.h(100,27): warning C4312: '형식 캐스트': 'int'에서 더 큰 'HMENU'(으)로의 변환입니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\MyFile\CreateMenu.h(132,46): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\MyFile\CreateMenu.h(136,24): warning C4312: '형식 캐스트': 'int'에서 더 큰 'HMENU'(으)로의 변환입니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\MyFile\CreateMenu.h(146,23): warning C4312: '형식 캐스트': 'int'에서 더 큰 'HMENU'(으)로의 변환입니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCvProject_Vehicle.cpp(240,50): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\OpenCvProject_Vehicle.cpp(246,44): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: '인수': 'const wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<const wchar_t*,const wchar_t*,_Size_type>(_Iter,const _Sent,_Size)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=const wchar_t *,
+              _Sent=const wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\MyFile\Utility.h(15,20): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_const_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\p2022\Desktop\OpenCvProject_Vehicle\MyFile\Utility.h(15,20): message : 'ConvertWideStringToString'에서 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string'에 대한 첫 번째 참조를 확인하세요.
+  OpenCvProject_Vehicle.vcxproj -> C:\Users\p2022\Desktop\OpenCvProject_Vehicle\x64\Debug\OpenCvProject_Vehicle.exe
